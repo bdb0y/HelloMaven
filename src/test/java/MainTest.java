@@ -7,6 +7,6 @@ public class MainTest {
 
     @Test
     public void shouldPrintHelloWorld() {
-        assertEquals(1, Main.factorial(2));
+        assertEquals(1, Main.factorial(0));
     }
 }
